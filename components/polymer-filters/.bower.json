@@ -1,0 +1,34 @@
+{
+  "name": "polymer-filters",
+  "authors": [
+    "Addy Osmani <addyosmani@gmail.com>"
+  ],
+  "description": "Element providing solution to no problem in particular.",
+  "keywords": "filters, polymer, web-components",
+  "main": "polymer-filters.html",
+  "license": "Apache 2.0",
+  "homepage": "https://github.com/addyosmani/polymer-filters/",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.3.1",
+    "chai": "~1.9.1",
+    "mocha": "~1.19.0"
+  },
+  "resolutions": {
+    "core-component-page": "0.2.4",
+    "polymer": "~0.3.1",
+    "platform": ">=0.3.0 <1.0.0"
+  },
+  "_release": "522e99b6fb",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "522e99b6fb898004a6558267d0833e3134a1f698"
+  },
+  "_source": "git://github.com/addyosmani/polymer-filters.git",
+  "_target": "master",
+  "_originalSource": "addyosmani/polymer-filters",
+  "_direct": true
+}
